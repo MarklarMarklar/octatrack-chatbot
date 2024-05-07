@@ -1,2 +1,2 @@
 # octatrack-chatbot
-chatbot for the Electron Octatrack
+chatbot for the Elektron Octatrack
